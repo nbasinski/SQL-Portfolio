@@ -1,4 +1,4 @@
---Data exploration of Covid deaths as of 2 October 2022
+--Data exploration of Covid deaths vs vaccinations as of 2 October 2022
 
 Select *
 From [Portfolio Project]..coviddeaths
